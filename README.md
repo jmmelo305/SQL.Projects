@@ -13,7 +13,7 @@
 
 ## This Repository
 ##### Originially Created to store Assignments from Wake Tech Commuity College Class DBA-120.
-##### Currently Used for any project created in SQL programming language
+##### Currently used for any project created in SQL programming language
 
 ## Websties I Find Useful.
 ##### ...
