@@ -92,7 +92,7 @@ FROM emp;
 
 
 
---Questoin 11:
+--Question 11:
 
 SELECT 
     ENAME || ' ' || RPAD('*', ROUND(SALARY / 100), '*') AS "EMPLOYEE_AND_THEIR_SALARIES"
@@ -124,4 +124,5 @@ ORDER BY
         WHEN LOWER(JOB) = 'salesman'  THEN 4
         WHEN LOWER(JOB) = 'clerk'     THEN 5
         ELSE 6
+
     END;
